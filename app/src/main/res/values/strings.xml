@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UAS IT Rivan</string>
+    <string name="dessert">Dessert</string>
+    <string name="seafood">Seafood</string>
+    <string name="title">Title</string>
+    <string name="desc">Description</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="sign_in_here">Sign In Here</string>
+    <string name="email">mahdiyansyahr@gmail.com</string>
+    <string name="log_out">Log Out</string>
+    <string name="already">Already login ? Click here</string>
+    <string name="name">RIvanda Mahdiyansyah</string>
+</resources>
